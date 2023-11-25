@@ -1,0 +1,17 @@
+index,customerID,Gender,Age,Annual income,spending score(1-100)
+0,1,male,19,15,39
+1,2,male,21,15,81
+2,3,female,20,16,6
+3,4,female,23,16,77
+4,5,female,31,17,40
+5,6,female,22,17,76
+6,7,female,35,18,6
+7,8,female,23,18,94
+8,9,female,64,19,3
+9,10,male,30,19,72
+10,11,female,67,19,14
+11,12,male,35,19,99
+12,13,female,58,20,15
+13,14,female,24,20,77
+14,15,female,37,20,13
+15,16,male,22,20,79
